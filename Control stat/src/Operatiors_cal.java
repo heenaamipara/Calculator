@@ -37,7 +37,7 @@ public class Operatiors_cal {
     case 3:System.out.println("Multiplication of given Numbers is :" + c1.Mul(num1, num2));
     break;
     
-    case 4:System.out.println("Division of given Numbers is" + c1.Div(num1, num2));
+    case 4:System.out.println("Division of given Numbers is :" + c1.Div(num1, num2));
     break;
     
     default: System.out.println("Invalid Operator");
